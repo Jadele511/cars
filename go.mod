@@ -1,8 +1,10 @@
-module github.com/sancodes/cars
+module github.com/jadele511/cars-go
 
 go 1.16
 
 require (
+	github.com/gin-contrib/cors v1.3.1 // indirect
 	github.com/gin-gonic/gin v1.7.1 // indirect
+	github.com/lib/pq v1.10.1 // indirect
 	github.com/stretchr/testify v1.7.0 // indirect
 )
